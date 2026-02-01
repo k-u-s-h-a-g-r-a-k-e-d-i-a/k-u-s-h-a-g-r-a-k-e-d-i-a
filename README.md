@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm **Kushagra** 👋</h1>
-<p align="center">depressed</p>
+<p align="center">Wasting life away </p>
 
 ---
 
