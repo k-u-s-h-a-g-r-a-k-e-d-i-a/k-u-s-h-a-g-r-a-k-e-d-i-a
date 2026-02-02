@@ -1,10 +1,10 @@
 <!-- Header -->
-<h1 align="center">Hi, I'm **Kushagra** 👋</h1>
-<p align="center">Wasting life away </p>
+<h1 align="center">Hi, I'm Kushagra 👋</h1>
+<p align="center">Coding my way through life 🚀</p>
 
 ---
 
-
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
@@ -15,14 +15,14 @@
 
 ---
 
-### 🔥 GitHub Streak
+## 🔥 GitHub Streak
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
+---
 
-
-### 💻 Tech Stack
+## 💻 Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -32,35 +32,23 @@
 
 ---
 
-<!-- Optional snake / contribution image -->
+## 👾 Space Invaders
 <p align="center">
-  name: Generate Snake
+  👾 👾 👾 👾 👾 <br>
+  👾 👾 👾 👾 👾 <br>
+  👾 👾 👾 👾 👾 <br><br>
+  🚀
+</p>
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 0 * * *"
+---
 
-permissions:
-  contents: write
+## 🏆 Goals
+- Build a **100 Days Bakka** journey with consistent coding practice  
+- Strengthen **problem-solving speed & accuracy**  
+- Prepare for **competitive programming & interviews**  
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: k-u-s-h-a-g-r-a-k-e-d-i-a
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+---
 
-      - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Keep%20Coding!&fontSize=20&fontColor=fff" />
 </p>
