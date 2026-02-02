@@ -4,7 +4,7 @@
 
 ---
 
-<!-- GitHub Stats -->
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 </p>
@@ -34,5 +34,5 @@
 
 <!-- Optional snake / contribution image -->
 <p align="center">
-  <img src="https://github.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/blob/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://github.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/blob/output/github-contribution-grid-snake-dark.svg" alt="https://github.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/blob/main/snake.yml" />
 </p>
