@@ -1,24 +1,24 @@
-name: Generate Snake
+name: Generate Space Invaders
 
 on:
-  workflow_dispatch:
   schedule:
-    - cron: "0 0 * * *"
-
-permissions:
-  contents: write
+    - cron: "0 */12 * * *"   # runs twice a day
+  workflow_dispatch:          # allow manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Space Invaders
         uses: Platane/snk@v3
         with:
           github_user_name: k-u-s-h-a-g-r-a-k-e-d-i-a
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/space-invader.svg
+            dist/space-invader-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
