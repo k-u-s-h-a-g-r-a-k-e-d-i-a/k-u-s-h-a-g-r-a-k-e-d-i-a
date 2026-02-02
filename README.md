@@ -34,5 +34,33 @@
 
 <!-- Optional snake / contribution image -->
 <p align="center">
-  <img src="https://github.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/blob/output/github-contribution-grid-snake-dark.svg" alt="https://github.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/blob/main/snake.yml" />
+  name: Generate Snake
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: k-u-s-h-a-g-r-a-k-e-d-i-a
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 </p>
