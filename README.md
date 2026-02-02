@@ -22,7 +22,7 @@
 
 ---
 
-## 👾 Space Invaders (Animated)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated space invaders style graph" />
 </p>
