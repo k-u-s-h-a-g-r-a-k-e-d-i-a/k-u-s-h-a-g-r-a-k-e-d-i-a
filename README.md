@@ -20,14 +20,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
 </p>
 
----
 
-### 🧠 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-u-s-h-a-g-r-a-k-e-d-i-a&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
-
----
 
 ### 💻 Tech Stack
 <p align="center">
