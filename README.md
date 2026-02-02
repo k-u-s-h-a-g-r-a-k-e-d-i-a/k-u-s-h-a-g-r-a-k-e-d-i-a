@@ -1,53 +1,34 @@
 <!-- Header -->
 <h1 align="center">Hi, I'm Kushagra 👋</h1>
-<p align="center">Coding my way through life 🚀</p>
+<p align="center">I develop bugs   🚀</p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyo-night" alt="Activity graph" />
-</p>
-
----
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyonight&utcOffset=5.5" alt="Productive time" />
+  <img src="https://github-readme-stats.vercel.app/api?username=k-u-s-h-a-g-r-a-k-e-d-i-a&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=k-u-s-h-a-g-r-a-k-e-d-i-a&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 💻 Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 </p>
 
 ---
 
-## 👾 Space Invaders
+## 👾 Space Invaders (Animated)
 <p align="center">
-  👾 👾 👾 👾 👾 <br>
-  👾 👾 👾 👾 👾 <br>
-  👾 👾 👾 👾 👾 <br><br>
-  🚀
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated space invaders style graph" />
 </p>
 
 ---
 
-## 🏆 Goals
-- Build a **100 Days Bakka** journey with consistent coding practice  
-- Strengthen **problem-solving speed & accuracy**  
-- Prepare for **competitive programming & interviews**  
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=80&section=footer&text=Keep%20Coding!&fontSize=20&fontColor=fff" />
