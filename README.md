@@ -68,5 +68,5 @@
 ## 🐍 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
+  <img src="https://raw.githubusercontent.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/output/github-contribution-grid-space-invaders-dark.gif" />
 </p>
