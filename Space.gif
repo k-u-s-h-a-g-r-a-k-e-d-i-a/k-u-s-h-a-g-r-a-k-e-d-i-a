@@ -1,6 +1,17 @@
-- uses: Platane/snk@v3
-  with:
-    github_user_name: k-u-s-h-a-g-r-a-k-e-d-i-a
-    outputs: |
-      dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      dist/github-contribution-grid-space-invaders-dark.gif?palette=github-dark
+name: Generate Space Shooter
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: czl9707/gh-space-shooter@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          username: k-u-s-h-a-g-r-a-k-e-d-i-a
+          output-path: gh-space-shooter.gif
+          strategy: random
