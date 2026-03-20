@@ -20,10 +20,9 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ **UPES Dehradun** — specializing in **AI/ML**
-- 🤖 Currently building with data pipelines, ML models & open source
-- 📸 Shoot travel content on the side (Rishikesh, Mussoorie, Chakrata)
-- ⚡ Always working on something I probably shouldn't be
+- 🎓 B.Tech CSE @ **UPES Dehradun**
+- 🤖 Currently learning ML models & open source contributions.
+- ⚡ My code works. I don't know why. Please don't ask. 
 
 ---
 
