@@ -20,9 +20,9 @@
 
 ## 🧠 About Me
 
-- 🎓 B.Tech CSE @ **UPES Dehradun**
-- 🤖 Currently learning ML models & open source contributions.
-- ⚡ My code works. I don't know why. Please don't ask. 
+- 🎓 B.Tech CSE @ **UPES Dehradun** — specializing in **AI/ML**
+- 🤖 Currently learning data pipelines, ML models & open source
+- ⚡ I don't know how it happens but it does.
 
 ---
 
@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11567C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
@@ -65,8 +65,8 @@
 
 ---
 
-## 🐍 Contributions
+## 👾 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/output/github-contribution-grid-space-invaders-dark.gif" />
+  <img src="https://raw.githubusercontent.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/main/gh-space-shooter.gif" alt="space shooter contribution graph" />
 </p>
