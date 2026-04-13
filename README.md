@@ -70,3 +70,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/k-u-s-h-a-g-r-a-k-e-d-i-a/k-u-s-h-a-g-r-a-k-e-d-i-a/main/gh-space-shooter.gif" alt="space shooter contribution graph" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="animated contribution graph" />
+</p>
